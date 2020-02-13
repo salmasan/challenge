@@ -1,0 +1,15 @@
+{
+  "name": "rc",
+  "version": "1.0.0",
+  "description": "Lien : https://github.com/tijaniabdellatif/Worshops/tree/master/design",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compiler:sass": "node-sass sass/style.scss css/style.css -w"
+  },
+  "author": "salma",
+  "license": "ISC"
+}
