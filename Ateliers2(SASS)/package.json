@@ -4,7 +4,7 @@
   "description": "Lien : https://github.com/tijaniabdellatif/Worshops/tree/master/design",
   "main": "index.js",
   "dependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {},
   "scripts": {
